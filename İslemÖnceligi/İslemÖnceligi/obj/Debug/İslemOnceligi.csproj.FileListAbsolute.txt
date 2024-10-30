@@ -1,0 +1,7 @@
+C:\Users\Berfin\source\repos\İslemÖnceligi\İslemÖnceligi\obj\Debug\İslemOnceligi.csproj.CoreCompileInputs.cache
+C:\Users\Berfin\source\repos\İslemÖnceligi\İslemÖnceligi\obj\Debug\İslemOnceligi.csprojAssemblyReference.cache
+C:\Users\Berfin\source\repos\İslemÖnceligi\İslemÖnceligi\bin\Debug\İslemÖnceligi.exe.config
+C:\Users\Berfin\source\repos\İslemÖnceligi\İslemÖnceligi\bin\Debug\İslemÖnceligi.exe
+C:\Users\Berfin\source\repos\İslemÖnceligi\İslemÖnceligi\bin\Debug\İslemÖnceligi.pdb
+C:\Users\Berfin\source\repos\İslemÖnceligi\İslemÖnceligi\obj\Debug\İslemÖnceligi.exe
+C:\Users\Berfin\source\repos\İslemÖnceligi\İslemÖnceligi\obj\Debug\İslemÖnceligi.pdb

@@ -1,0 +1,7 @@
+C:\Users\Berfin\source\repos\PolynomialCalculator\PolynomialCalculator\bin\Debug\PolynomialCalculator.exe.config
+C:\Users\Berfin\source\repos\PolynomialCalculator\PolynomialCalculator\bin\Debug\PolynomialCalculator.exe
+C:\Users\Berfin\source\repos\PolynomialCalculator\PolynomialCalculator\bin\Debug\PolynomialCalculator.pdb
+C:\Users\Berfin\source\repos\PolynomialCalculator\PolynomialCalculator\obj\Debug\PolynomialCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Berfin\source\repos\PolynomialCalculator\PolynomialCalculator\obj\Debug\PolynomialCalculator.exe
+C:\Users\Berfin\source\repos\PolynomialCalculator\PolynomialCalculator\obj\Debug\PolynomialCalculator.pdb
+C:\Users\Berfin\source\repos\PolynomialCalculator\PolynomialCalculator\obj\Debug\PolynomialCalculator.csprojAssemblyReference.cache

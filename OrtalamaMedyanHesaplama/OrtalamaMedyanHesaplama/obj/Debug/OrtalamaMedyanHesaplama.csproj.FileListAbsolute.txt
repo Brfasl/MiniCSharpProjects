@@ -1,0 +1,6 @@
+C:\Users\Berfin\source\repos\OrtalamaMedyanHesaplama\OrtalamaMedyanHesaplama\bin\Debug\OrtalamaMedyanHesaplama.exe.config
+C:\Users\Berfin\source\repos\OrtalamaMedyanHesaplama\OrtalamaMedyanHesaplama\bin\Debug\OrtalamaMedyanHesaplama.exe
+C:\Users\Berfin\source\repos\OrtalamaMedyanHesaplama\OrtalamaMedyanHesaplama\bin\Debug\OrtalamaMedyanHesaplama.pdb
+C:\Users\Berfin\source\repos\OrtalamaMedyanHesaplama\OrtalamaMedyanHesaplama\obj\Debug\OrtalamaMedyanHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Berfin\source\repos\OrtalamaMedyanHesaplama\OrtalamaMedyanHesaplama\obj\Debug\OrtalamaMedyanHesaplama.exe
+C:\Users\Berfin\source\repos\OrtalamaMedyanHesaplama\OrtalamaMedyanHesaplama\obj\Debug\OrtalamaMedyanHesaplama.pdb

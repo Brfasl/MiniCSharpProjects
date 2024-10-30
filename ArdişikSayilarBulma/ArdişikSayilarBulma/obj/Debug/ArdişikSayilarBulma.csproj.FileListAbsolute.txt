@@ -1,0 +1,6 @@
+C:\Users\Berfin\source\repos\ArdişikSayilarBulma\ArdişikSayilarBulma\bin\Debug\ArdişikSayilarBulma.exe.config
+C:\Users\Berfin\source\repos\ArdişikSayilarBulma\ArdişikSayilarBulma\bin\Debug\ArdişikSayilarBulma.exe
+C:\Users\Berfin\source\repos\ArdişikSayilarBulma\ArdişikSayilarBulma\bin\Debug\ArdişikSayilarBulma.pdb
+C:\Users\Berfin\source\repos\ArdişikSayilarBulma\ArdişikSayilarBulma\obj\Debug\ArdişikSayilarBulma.csproj.CoreCompileInputs.cache
+C:\Users\Berfin\source\repos\ArdişikSayilarBulma\ArdişikSayilarBulma\obj\Debug\ArdişikSayilarBulma.exe
+C:\Users\Berfin\source\repos\ArdişikSayilarBulma\ArdişikSayilarBulma\obj\Debug\ArdişikSayilarBulma.pdb
