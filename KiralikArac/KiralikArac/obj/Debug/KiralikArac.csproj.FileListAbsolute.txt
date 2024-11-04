@@ -1,0 +1,7 @@
+C:\Users\Berfin\source\repos\KiralikArac\KiralikArac\bin\Debug\KiralikArac.exe.config
+C:\Users\Berfin\source\repos\KiralikArac\KiralikArac\bin\Debug\KiralikArac.exe
+C:\Users\Berfin\source\repos\KiralikArac\KiralikArac\bin\Debug\KiralikArac.pdb
+C:\Users\Berfin\source\repos\KiralikArac\KiralikArac\obj\Debug\KiralikArac.csprojAssemblyReference.cache
+C:\Users\Berfin\source\repos\KiralikArac\KiralikArac\obj\Debug\KiralikArac.csproj.CoreCompileInputs.cache
+C:\Users\Berfin\source\repos\KiralikArac\KiralikArac\obj\Debug\KiralikArac.exe
+C:\Users\Berfin\source\repos\KiralikArac\KiralikArac\obj\Debug\KiralikArac.pdb

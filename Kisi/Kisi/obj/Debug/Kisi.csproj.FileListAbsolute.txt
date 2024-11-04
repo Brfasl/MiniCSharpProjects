@@ -1,0 +1,7 @@
+C:\Users\Berfin\source\repos\Kisi\Kisi\bin\Debug\Kisi.exe.config
+C:\Users\Berfin\source\repos\Kisi\Kisi\bin\Debug\Kisi.exe
+C:\Users\Berfin\source\repos\Kisi\Kisi\bin\Debug\Kisi.pdb
+C:\Users\Berfin\source\repos\Kisi\Kisi\obj\Debug\Kisi.csprojAssemblyReference.cache
+C:\Users\Berfin\source\repos\Kisi\Kisi\obj\Debug\Kisi.csproj.CoreCompileInputs.cache
+C:\Users\Berfin\source\repos\Kisi\Kisi\obj\Debug\Kisi.exe
+C:\Users\Berfin\source\repos\Kisi\Kisi\obj\Debug\Kisi.pdb
