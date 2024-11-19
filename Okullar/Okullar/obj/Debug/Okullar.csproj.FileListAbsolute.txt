@@ -1,0 +1,6 @@
+C:\Users\Berfin\source\repos\Okullar\Okullar\bin\Debug\Okullar.exe.config
+C:\Users\Berfin\source\repos\Okullar\Okullar\bin\Debug\Okullar.exe
+C:\Users\Berfin\source\repos\Okullar\Okullar\bin\Debug\Okullar.pdb
+C:\Users\Berfin\source\repos\Okullar\Okullar\obj\Debug\Okullar.csproj.CoreCompileInputs.cache
+C:\Users\Berfin\source\repos\Okullar\Okullar\obj\Debug\Okullar.exe
+C:\Users\Berfin\source\repos\Okullar\Okullar\obj\Debug\Okullar.pdb

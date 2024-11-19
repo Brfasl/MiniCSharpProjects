@@ -1,0 +1,6 @@
+C:\Users\Berfin\source\repos\Kitaplar\Kitaplar\bin\Debug\Kitaplar.exe.config
+C:\Users\Berfin\source\repos\Kitaplar\Kitaplar\bin\Debug\Kitaplar.exe
+C:\Users\Berfin\source\repos\Kitaplar\Kitaplar\bin\Debug\Kitaplar.pdb
+C:\Users\Berfin\source\repos\Kitaplar\Kitaplar\obj\Debug\Kitaplar.csproj.CoreCompileInputs.cache
+C:\Users\Berfin\source\repos\Kitaplar\Kitaplar\obj\Debug\Kitaplar.exe
+C:\Users\Berfin\source\repos\Kitaplar\Kitaplar\obj\Debug\Kitaplar.pdb

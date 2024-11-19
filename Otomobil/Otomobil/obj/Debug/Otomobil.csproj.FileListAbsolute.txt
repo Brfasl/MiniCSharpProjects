@@ -1,0 +1,6 @@
+C:\Users\Berfin\source\repos\Otomobil\Otomobil\bin\Debug\Otomobil.exe.config
+C:\Users\Berfin\source\repos\Otomobil\Otomobil\bin\Debug\Otomobil.exe
+C:\Users\Berfin\source\repos\Otomobil\Otomobil\bin\Debug\Otomobil.pdb
+C:\Users\Berfin\source\repos\Otomobil\Otomobil\obj\Debug\Otomobil.csproj.CoreCompileInputs.cache
+C:\Users\Berfin\source\repos\Otomobil\Otomobil\obj\Debug\Otomobil.exe
+C:\Users\Berfin\source\repos\Otomobil\Otomobil\obj\Debug\Otomobil.pdb
