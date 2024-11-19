@@ -1,0 +1,7 @@
+C:\Users\Berfin\source\repos\Calisan\Calisan\obj\Debug\Calisan.csprojAssemblyReference.cache
+C:\Users\Berfin\source\repos\Calisan\Calisan\obj\Debug\Calisan.csproj.CoreCompileInputs.cache
+C:\Users\Berfin\source\repos\Calisan\Calisan\bin\Debug\Calisan.exe.config
+C:\Users\Berfin\source\repos\Calisan\Calisan\bin\Debug\Calisan.exe
+C:\Users\Berfin\source\repos\Calisan\Calisan\bin\Debug\Calisan.pdb
+C:\Users\Berfin\source\repos\Calisan\Calisan\obj\Debug\Calisan.exe
+C:\Users\Berfin\source\repos\Calisan\Calisan\obj\Debug\Calisan.pdb

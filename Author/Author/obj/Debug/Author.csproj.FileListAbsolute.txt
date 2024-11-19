@@ -1,0 +1,7 @@
+C:\Users\Berfin\source\repos\Author\Author\bin\Debug\Author.exe.config
+C:\Users\Berfin\source\repos\Author\Author\bin\Debug\Author.exe
+C:\Users\Berfin\source\repos\Author\Author\bin\Debug\Author.pdb
+C:\Users\Berfin\source\repos\Author\Author\obj\Debug\Author.csprojAssemblyReference.cache
+C:\Users\Berfin\source\repos\Author\Author\obj\Debug\Author.csproj.CoreCompileInputs.cache
+C:\Users\Berfin\source\repos\Author\Author\obj\Debug\Author.exe
+C:\Users\Berfin\source\repos\Author\Author\obj\Debug\Author.pdb

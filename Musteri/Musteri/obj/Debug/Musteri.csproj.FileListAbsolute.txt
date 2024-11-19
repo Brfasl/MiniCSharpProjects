@@ -1,0 +1,6 @@
+C:\Users\Berfin\source\repos\Musteri\Musteri\obj\Debug\Musteri.csproj.CoreCompileInputs.cache
+C:\Users\Berfin\source\repos\Musteri\Musteri\bin\Debug\Musteri.exe.config
+C:\Users\Berfin\source\repos\Musteri\Musteri\bin\Debug\Musteri.exe
+C:\Users\Berfin\source\repos\Musteri\Musteri\bin\Debug\Musteri.pdb
+C:\Users\Berfin\source\repos\Musteri\Musteri\obj\Debug\Musteri.exe
+C:\Users\Berfin\source\repos\Musteri\Musteri\obj\Debug\Musteri.pdb

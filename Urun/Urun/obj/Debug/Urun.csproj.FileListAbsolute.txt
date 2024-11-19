@@ -1,0 +1,7 @@
+C:\Users\Berfin\source\repos\Urun\Urun\bin\Debug\Urun.exe.config
+C:\Users\Berfin\source\repos\Urun\Urun\bin\Debug\Urun.exe
+C:\Users\Berfin\source\repos\Urun\Urun\bin\Debug\Urun.pdb
+C:\Users\Berfin\source\repos\Urun\Urun\obj\Debug\Urun.csproj.CoreCompileInputs.cache
+C:\Users\Berfin\source\repos\Urun\Urun\obj\Debug\Urun.exe
+C:\Users\Berfin\source\repos\Urun\Urun\obj\Debug\Urun.pdb
+C:\Users\Berfin\source\repos\Urun\Urun\obj\Debug\Urun.csprojAssemblyReference.cache

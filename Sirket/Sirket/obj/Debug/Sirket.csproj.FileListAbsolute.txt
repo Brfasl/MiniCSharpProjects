@@ -1,0 +1,6 @@
+C:\Users\Berfin\source\repos\Sirket\Sirket\bin\Debug\Sirket.exe.config
+C:\Users\Berfin\source\repos\Sirket\Sirket\bin\Debug\Sirket.exe
+C:\Users\Berfin\source\repos\Sirket\Sirket\bin\Debug\Sirket.pdb
+C:\Users\Berfin\source\repos\Sirket\Sirket\obj\Debug\Sirket.csproj.CoreCompileInputs.cache
+C:\Users\Berfin\source\repos\Sirket\Sirket\obj\Debug\Sirket.exe
+C:\Users\Berfin\source\repos\Sirket\Sirket\obj\Debug\Sirket.pdb
