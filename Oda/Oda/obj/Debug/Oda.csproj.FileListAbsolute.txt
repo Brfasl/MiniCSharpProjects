@@ -1,0 +1,6 @@
+C:\Users\Berfin\source\repos\Oda\Oda\bin\Debug\Oda.exe.config
+C:\Users\Berfin\source\repos\Oda\Oda\bin\Debug\Oda.exe
+C:\Users\Berfin\source\repos\Oda\Oda\bin\Debug\Oda.pdb
+C:\Users\Berfin\source\repos\Oda\Oda\obj\Debug\Oda.csproj.CoreCompileInputs.cache
+C:\Users\Berfin\source\repos\Oda\Oda\obj\Debug\Oda.exe
+C:\Users\Berfin\source\repos\Oda\Oda\obj\Debug\Oda.pdb

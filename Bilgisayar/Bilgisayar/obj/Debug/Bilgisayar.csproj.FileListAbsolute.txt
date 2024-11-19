@@ -1,0 +1,6 @@
+C:\Users\Berfin\source\repos\Bilgisayar\Bilgisayar\bin\Debug\Bilgisayar.exe.config
+C:\Users\Berfin\source\repos\Bilgisayar\Bilgisayar\bin\Debug\Bilgisayar.exe
+C:\Users\Berfin\source\repos\Bilgisayar\Bilgisayar\bin\Debug\Bilgisayar.pdb
+C:\Users\Berfin\source\repos\Bilgisayar\Bilgisayar\obj\Debug\Bilgisayar.csproj.CoreCompileInputs.cache
+C:\Users\Berfin\source\repos\Bilgisayar\Bilgisayar\obj\Debug\Bilgisayar.exe
+C:\Users\Berfin\source\repos\Bilgisayar\Bilgisayar\obj\Debug\Bilgisayar.pdb

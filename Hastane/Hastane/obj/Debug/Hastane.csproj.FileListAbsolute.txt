@@ -1,0 +1,6 @@
+C:\Users\Berfin\source\repos\Hastane\Hastane\bin\Debug\Hastane.exe.config
+C:\Users\Berfin\source\repos\Hastane\Hastane\bin\Debug\Hastane.exe
+C:\Users\Berfin\source\repos\Hastane\Hastane\bin\Debug\Hastane.pdb
+C:\Users\Berfin\source\repos\Hastane\Hastane\obj\Debug\Hastane.csproj.CoreCompileInputs.cache
+C:\Users\Berfin\source\repos\Hastane\Hastane\obj\Debug\Hastane.exe
+C:\Users\Berfin\source\repos\Hastane\Hastane\obj\Debug\Hastane.pdb

@@ -1,0 +1,6 @@
+C:\Users\Berfin\source\repos\Kutuphaneler\Kutuphaneler\bin\Debug\Kutuphaneler.exe.config
+C:\Users\Berfin\source\repos\Kutuphaneler\Kutuphaneler\bin\Debug\Kutuphaneler.exe
+C:\Users\Berfin\source\repos\Kutuphaneler\Kutuphaneler\bin\Debug\Kutuphaneler.pdb
+C:\Users\Berfin\source\repos\Kutuphaneler\Kutuphaneler\obj\Debug\Kutuphaneler.csproj.CoreCompileInputs.cache
+C:\Users\Berfin\source\repos\Kutuphaneler\Kutuphaneler\obj\Debug\Kutuphaneler.exe
+C:\Users\Berfin\source\repos\Kutuphaneler\Kutuphaneler\obj\Debug\Kutuphaneler.pdb
