@@ -1,0 +1,6 @@
+c:\users\berfin\source\repos\YayinciSistemi\YayinciSistemi\bin\Debug\YayinciSistemi.exe.config
+c:\users\berfin\source\repos\YayinciSistemi\YayinciSistemi\bin\Debug\YayinciSistemi.exe
+c:\users\berfin\source\repos\YayinciSistemi\YayinciSistemi\bin\Debug\YayinciSistemi.pdb
+c:\users\berfin\source\repos\YayinciSistemi\YayinciSistemi\obj\Debug\YayinciSistemi.csproj.CoreCompileInputs.cache
+c:\users\berfin\source\repos\YayinciSistemi\YayinciSistemi\obj\Debug\YayinciSistemi.exe
+c:\users\berfin\source\repos\YayinciSistemi\YayinciSistemi\obj\Debug\YayinciSistemi.pdb

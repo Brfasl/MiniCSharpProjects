@@ -1,78 +1,106 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Proje
+class Hesap
 {
-    public class BankaHesabi
+    public string HesapNo { get; set; }
+    public decimal Bakiye { get; set; }
+    public string HesapSahibi { get; set; }
+
+    public virtual void ParaYatir(decimal miktar)
     {
-        public string HesapNumarasi { get; set; }
-        private decimal Bakiye;
-        public decimal bakiye
+        Bakiye += miktar;
+        Console.WriteLine($"Yeni bakiye: {Bakiye}");
+    }
+
+    public virtual void ParaCek(decimal miktar)
+    {
+        if (Bakiye >= miktar)
         {
-            get { return Bakiye; }
-            set
-            {
-                if (Bakiye > 0)
-                    Bakiye=value;
-                else
-                    throw new ArgumentException("Hatalı Bakiye Girdiniz.");
-            }
+            Bakiye -= miktar;
+            Console.WriteLine($"Yeni bakiye: {Bakiye}");
         }
-        public BankaHesabi(string hesapNumarasi, decimal bakiye)
+        else
         {
-            Bakiye += bakiye;
-            HesapNumarasi = hesapNumarasi;
+            Console.WriteLine("Yetersiz bakiye!");
         }
-        public void ParaYatir(decimal miktar)
+    }
+
+    public virtual void BilgiYazdir()
+    {
+        Console.WriteLine($"Hesap No: {HesapNo}, Hesap Sahibi: {HesapSahibi}, Bakiye: {Bakiye}");
+    }
+}
+
+class VadesizHesap : Hesap
+{
+    public decimal EkHesapLimiti { get; set; }
+
+    public override void ParaCek(decimal miktar)
+    {
+        if (Bakiye + EkHesapLimiti >= miktar)
         {
-            if (miktar > 0)
-            {
-                Bakiye += miktar;
-                Console.WriteLine($"{miktar} TL Yatırıldı.Güncel Bakiyeniz:{Bakiye}");
-            }
-
-            else
-                throw new ArgumentException("Hatalı Miktar Girdiniz.");
-
-           
-
+            Bakiye -= miktar;
+            Console.WriteLine($"Yeni bakiye: {Bakiye}");
         }
-        public void ParaCek(decimal miktar)
+        else
         {
-            if (Bakiye > miktar)
-            {
-                Bakiye -=miktar;
-                Console.WriteLine($"{miktar} TL Çekildi.Kalan Bakiye:{Bakiye}");
-            }
-            else
-                Console.WriteLine($"Yetersiz Bakiye.Güncel Bakiye:{Bakiye}");
-
-           
-
-
+            Console.WriteLine("Yetersiz bakiye ve ek hesap limiti!");
         }
+    }
+}
 
-        class Program
+class VadeliHesap : Hesap
+{
+    public int VadeSuresi { get; set; }
+    public double FaizOrani { get; set; }
+
+    public override void ParaCek(decimal miktar)
+    {
+        Console.WriteLine("Vade dolmadan para çekemezsiniz!");
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("Hesap türünü seçin: 1- Vadesiz Hesap, 2- Vadeli Hesap");
+        int secim = int.Parse(Console.ReadLine());
+
+        if (secim == 1)
         {
-            static void Main(string[] args)
-            {
-                BankaHesabi müsteri1 = new BankaHesabi("1", 1000);
-                BankaHesabi müsteri2 = new BankaHesabi("2", 4000);
-                BankaHesabi müsteri3 = new BankaHesabi("3", 8000);
-                müsteri1.ParaCek(3000);
-                müsteri2.ParaYatir(3000);
-                müsteri3.ParaCek(3000);
-
-
-
-                Console.ReadLine();
-
-
-
-            }
+            VadesizHesap vadesiz = new VadesizHesap();
+            Console.Write("Hesap No: ");
+            vadesiz.HesapNo = Console.ReadLine();
+            Console.Write("Hesap Sahibi: ");
+            vadesiz.HesapSahibi = Console.ReadLine();
+            Console.Write("Bakiye: ");
+            vadesiz.Bakiye = decimal.Parse(Console.ReadLine());
+            Console.Write("Ek Hesap Limiti: ");
+            vadesiz.EkHesapLimiti = decimal.Parse(Console.ReadLine());
+            vadesiz.BilgiYazdir();
+            vadesiz.ParaCek(100); // Örnek işlem
         }
+        else if (secim == 2)
+        {
+            VadeliHesap vadeli = new VadeliHesap();
+            Console.Write("Hesap No: ");
+            vadeli.HesapNo = Console.ReadLine();
+            Console.Write("Hesap Sahibi: ");
+            vadeli.HesapSahibi = Console.ReadLine();
+            Console.Write("Bakiye: ");
+            vadeli.Bakiye = decimal.Parse(Console.ReadLine());
+            Console.Write("Vade Süresi: ");
+            vadeli.VadeSuresi = int.Parse(Console.ReadLine());
+            Console.Write("Faiz Oranı: ");
+            vadeli.FaizOrani = double.Parse(Console.ReadLine());
+            vadeli.BilgiYazdir();
+            vadeli.ParaCek(100); // Örnek işlem
+        }
+        else
+        {
+            Console.WriteLine("Geçersiz seçim!");
+        }
+        Console.Read();
     }
 }

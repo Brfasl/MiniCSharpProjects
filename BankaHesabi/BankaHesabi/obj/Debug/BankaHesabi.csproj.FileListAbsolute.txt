@@ -1,0 +1,6 @@
+c:\users\berfin\source\repos\BankaHesabi\BankaHesabi\bin\Debug\BankaHesabi.exe.config
+c:\users\berfin\source\repos\BankaHesabi\BankaHesabi\bin\Debug\BankaHesabi.exe
+c:\users\berfin\source\repos\BankaHesabi\BankaHesabi\bin\Debug\BankaHesabi.pdb
+c:\users\berfin\source\repos\BankaHesabi\BankaHesabi\obj\Debug\BankaHesabi.csproj.CoreCompileInputs.cache
+c:\users\berfin\source\repos\BankaHesabi\BankaHesabi\obj\Debug\BankaHesabi.exe
+c:\users\berfin\source\repos\BankaHesabi\BankaHesabi\obj\Debug\BankaHesabi.pdb

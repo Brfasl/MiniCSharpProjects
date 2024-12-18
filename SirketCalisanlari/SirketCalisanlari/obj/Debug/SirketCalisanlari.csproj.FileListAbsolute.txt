@@ -1,0 +1,6 @@
+c:\users\berfin\source\repos\SirketCalisanlari\SirketCalisanlari\bin\Debug\SirketCalisanlari.exe.config
+c:\users\berfin\source\repos\SirketCalisanlari\SirketCalisanlari\bin\Debug\SirketCalisanlari.exe
+c:\users\berfin\source\repos\SirketCalisanlari\SirketCalisanlari\bin\Debug\SirketCalisanlari.pdb
+c:\users\berfin\source\repos\SirketCalisanlari\SirketCalisanlari\obj\Debug\SirketCalisanlari.csproj.CoreCompileInputs.cache
+c:\users\berfin\source\repos\SirketCalisanlari\SirketCalisanlari\obj\Debug\SirketCalisanlari.exe
+c:\users\berfin\source\repos\SirketCalisanlari\SirketCalisanlari\obj\Debug\SirketCalisanlari.pdb

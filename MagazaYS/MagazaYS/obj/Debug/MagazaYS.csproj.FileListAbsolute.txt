@@ -1,0 +1,6 @@
+c:\users\berfin\source\repos\MagazaYS\MagazaYS\bin\Debug\MagazaYS.exe.config
+c:\users\berfin\source\repos\MagazaYS\MagazaYS\bin\Debug\MagazaYS.exe
+c:\users\berfin\source\repos\MagazaYS\MagazaYS\bin\Debug\MagazaYS.pdb
+c:\users\berfin\source\repos\MagazaYS\MagazaYS\obj\Debug\MagazaYS.csproj.CoreCompileInputs.cache
+c:\users\berfin\source\repos\MagazaYS\MagazaYS\obj\Debug\MagazaYS.exe
+c:\users\berfin\source\repos\MagazaYS\MagazaYS\obj\Debug\MagazaYS.pdb

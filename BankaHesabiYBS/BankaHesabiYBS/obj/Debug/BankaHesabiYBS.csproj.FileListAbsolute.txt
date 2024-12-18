@@ -1,0 +1,6 @@
+c:\users\berfin\source\repos\BankaHesabiYBS\BankaHesabiYBS\bin\Debug\BankaHesabiYBS.exe.config
+c:\users\berfin\source\repos\BankaHesabiYBS\BankaHesabiYBS\bin\Debug\BankaHesabiYBS.exe
+c:\users\berfin\source\repos\BankaHesabiYBS\BankaHesabiYBS\bin\Debug\BankaHesabiYBS.pdb
+c:\users\berfin\source\repos\BankaHesabiYBS\BankaHesabiYBS\obj\Debug\BankaHesabiYBS.csproj.CoreCompileInputs.cache
+c:\users\berfin\source\repos\BankaHesabiYBS\BankaHesabiYBS\obj\Debug\BankaHesabiYBS.exe
+c:\users\berfin\source\repos\BankaHesabiYBS\BankaHesabiYBS\obj\Debug\BankaHesabiYBS.pdb
